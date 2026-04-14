@@ -1,6 +1,6 @@
 # Library-Database-Analysis-project-using-SQL
 
-✅ 📌 Library Database Analysis – GitHub Description
+📌 Library Database Analysis
 
 This project is a Library Database Management System developed using MySQL to efficiently store, manage, and analyze library data. The main goal of this project is to demonstrate how a relational database can be used in real-world applications to handle large amounts of structured data.
 
